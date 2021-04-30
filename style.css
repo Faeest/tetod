@@ -1,0 +1,9 @@
+main{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+canvas{
+	display: inline;
+	border: 1px grey solid;
+}
