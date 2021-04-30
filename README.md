@@ -38,7 +38,7 @@ Dibuat se ramah mungkin untuk yang ingin meng ulik - ulik code nya maupun untuk 
     - warna
       ```
       > script.js
-      const colorKind = 7 // samakan nilai dengan banyak nya case yang ada di dalam switch agar tidak muncull error
+      const colorKind = 7 // samakan nilai dengan banyak nya case yang ada di dalam switch agar tidak muncul error
       function getColor(type){
         let res = '#000'
         switch(type){
