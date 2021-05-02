@@ -57,7 +57,7 @@ Dibuat se ramah mungkin untuk yang ingin meng ulik - ulik code nya maupun untuk 
       
     - icon
 
-	icon akan berganti sesuai dengan kondisi yang telah ditentukan. jika ingin **mengubah** icon bisa masuk ke dalam directory dibawah ini dan bisa di custom sesuka hati.
+	icon akan berganti sesuai dengan kondisi yang telah ditentukan. jika ingin **mengubah** icon bisa masuk ke dalam directory ini dan bisa di custom sesuka hati.
 		```
 		/assets/icon/
 		```
