@@ -54,12 +54,14 @@ Dibuat se ramah mungkin untuk yang ingin meng ulik - ulik code nya maupun untuk 
         return res
       }
       ```
+      
     - icon
-	icon akan berganti sesuai dengan kondisi yang telah ditemtukan. jika ingin **mengubah** icon bisa masuk ke dalam directory dibawah ini.
+
+	icon akan berganti sesuai dengan kondisi yang telah ditentukan. jika ingin **mengubah** icon bisa masuk ke dalam directory dibawah ini dan bisa di custom sesuka hati.
 		```
 		/assets/icon/
 		```
-		dan jika ingin **menambah** icon, maka pengguna wajib menambahkan bentuk terlebih dahulu. beri nama sesuai dengan code warna bentuk yang telah dibuat. Jika code warna sama.
+	Dan jika ingin **menambah** icon, maka pengguna wajib menambahkan bentuk terlebih dahulu. beri nama sesuai dengan code warna bentuk yang telah dibuat. Jika code warna sama.
 
 ## Contact
 kalau ada keluhan / bug mohon untuk meng kontak saya.
